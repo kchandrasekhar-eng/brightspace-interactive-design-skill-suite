@@ -11,9 +11,6 @@ credits: |
   Developed as part of Designing Interactive Learning Experiences in Brightspace,
   a D2L Academy Customer Spotlight course. Reference implementation: UGST 1001
   (Effective Learning in the Undergraduate Context), Mount Royal University.
-  With contributions from Tim Magee, MS (Academic Development Centre)
-  and Glen Ryland, PhD (Department of General Education),
-  Mount Royal University.
 license: CC BY-NC 4.0
 ---
 
