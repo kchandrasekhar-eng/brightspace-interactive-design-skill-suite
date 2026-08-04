@@ -2,15 +2,16 @@
 name: brightspace-email-template-builder
 description: |
   Builds instructor email templates for common course communication scenarios — late submissions, grade feedback, extensions, at-risk check-ins, welcome emails, and group coordination. Use this skill whenever a user needs reusable email templates for student communication outside of Brightspace Announcements. Triggers on phrases like "email template", "email students", "write an email to a student", "late submission email", "grade feedback email", "extension request", "at-risk student email", or any request to draft instructor-to-student email communication.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Email Template Builder

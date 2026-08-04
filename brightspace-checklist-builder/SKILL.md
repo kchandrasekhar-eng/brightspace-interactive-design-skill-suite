@@ -2,15 +2,16 @@
 name: brightspace-checklist-builder
 description: |
   Builds student-facing task checklists in Brightspace — orientation checklists, pre-class preparation lists, module completion checklists, and assignment submission checklists. Use this skill whenever a user wants to create a structured checklist for students in Brightspace. Triggers on phrases like "create a checklist", "student checklist", "orientation checklist", "pre-class preparation", "module checklist", "submission checklist", or any request for a student-facing task list in Brightspace. Checklists are non-graded — for graded completion tracking use brightspace-quiz-generator or brightspace-assignment-generator.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Checklist Builder

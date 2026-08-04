@@ -2,15 +2,16 @@
 name: brightspace-gradebook-planner
 description: |
   Designs Brightspace gradebook structure — categories, weights, grade schemes, calculation methods, and grade item connections. Use this skill whenever a user wants to set up or restructure a Brightspace gradebook. Triggers on phrases like "set up the gradebook", "gradebook structure", "grade categories", "weighted grades", "grade scheme", "final grade calculation", "connect quiz to gradebook", or any request about how grades are structured or calculated in Brightspace. Always use this skill before creating individual assessments — the gradebook structure should be planned first.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Gradebook Planner
@@ -55,7 +56,7 @@ If not found:
 Note: **Do not ask for brand colours** — gradebook uses Brightspace's native interface.
 
 **⚠️ Critical sequence — always state this before anything else:**
-> "Set up the gradebook structure FIRST — before creating any quizzes, assignments, or discussions. If you create assessments before the gradebook is ready, you will need to manually reconnect each one to a grade item later. This takes 5 minutes now and saves significant rework."
+> "Set up the gradebook structure FIRST — calculation method, categories, weights, and grade scheme — before creating any quizzes, assignments, or discussions. Individual grade items can be created inline when you build an assessment, but only if the category structure already exists. Without categories and weights in place first, grade items have nothing to roll up into and your final grade calculation won't work correctly. Five minutes now saves significant rework later."
 
 **Step 2 — Collect gradebook details**
 1. How many grade categories? (e.g. Quizzes, Assignments, Discussions, Participation)

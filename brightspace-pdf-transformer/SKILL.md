@@ -2,15 +2,16 @@
 name: brightspace-pdf-transformer
 description: |
   Transforms static PDF readings into interactive Brightspace HTML Topics with structured sections, expandable key terms, comprehension questions, and a before/after toggle. Use this skill whenever a user wants to convert a PDF, Word document, or static reading into an interactive Brightspace page. Triggers on phrases like "turn this PDF into a Brightspace page", "make this reading interactive", "PDF to HTML Topic", "transform this document", "interactive reading page", or any request to make a static document interactive in Brightspace.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.2.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.2.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace PDF Transformer

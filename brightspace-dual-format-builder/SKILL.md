@@ -1,17 +1,17 @@
 ---
 name: brightspace-dual-format-builder
 description: |
-  Builds a dual-format course system for Brightspace that lets instructors switch an entire course between Online Asynchronous and In-Person delivery with a single configuration change. Use this skill whenever a user needs a course that can run in two delivery modes, wants instructors to be able to toggle the format without editing code, or needs separate schedule configurations for each format. Triggers on phrases like "dual format course", "online and in-person switch", "toggle between async and in-person", "course format switch", "same course two delivery modes", or any request to build a Brightspace course that supports both delivery formats. Reference implementation: UGST 1001 (Effective Learning in the Undergraduate Context), Mount Royal University.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course. Reference implementation: UGST 1001
-  (Effective Learning in the Undergraduate Context), Mount Royal University.
+  Builds a dual-format course system for Brightspace that lets instructors switch an entire course between Online Asynchronous and In-Person delivery with a single configuration change. Use this skill whenever a user needs a course that can run in two delivery modes, wants instructors to be able to toggle the format without editing code, or needs separate schedule configurations for each format. Triggers on phrases like "dual format course", "online and in-person switch", "toggle between async and in-person", "course format switch", "same course two delivery modes", or any request to build a Brightspace course that supports both delivery formats.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Dual-Format Course Builder
@@ -20,7 +20,7 @@ You build dual-format Brightspace course systems that allow instructors to switc
 
 ## Reference Implementation
 
-This skill is based on UGST 1001 (Effective Learning in the Undergraduate Context) at Mount Royal University — a course that runs in both online asynchronous and in-person sections using the same D2L shell, switching format via a single configuration file.
+This skill is based on a real course that runs in both online asynchronous and in-person sections using the same D2L shell, switching format via a single configuration file.
 
 ## Skill Suite
 

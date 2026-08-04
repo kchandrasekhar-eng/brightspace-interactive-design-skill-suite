@@ -2,15 +2,16 @@
 name: brightspace-redesign-planner
 description: |
   Guides users through planning a Brightspace course redesign using 10 core design principles. Use this skill whenever a user wants to plan, redesign, or restructure a Brightspace course — including mapping learning outcomes, planning module structure, deciding where to use HTML Topics vs classical tools, setting up completion signalling, or preparing for NCE migration. Triggers on phrases like "help me redesign my course", "plan my Brightspace course", "which modules need HTML Topics", "how do I structure my course", "NCE migration", "course copy", or any request about course-level Brightspace design. Always use this skill before the user starts building — it produces the planning document that feeds every other skill in the suite.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.2.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.2.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Course Redesign Planner
@@ -64,8 +65,6 @@ This skill produces the planning document used by all other skills:
 
 **If the user can't find their planning document:**
 > "Your planning document was saved in Manage Files under `shared/course-redesign-plan.md`. If you can't find it, I can regenerate it — just tell me your course name and institution and we'll rebuild the context quickly." 
-
-Note: **Do not ask for brand colours** unless the user is building HTML Topics — collect colours only when the Architecture section confirms HTML Topics are planned.
 
 **If starting fresh**, collect:
 1. Course name, code, institution

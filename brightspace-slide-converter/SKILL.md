@@ -2,15 +2,16 @@
 name: brightspace-slide-converter
 description: |
   Converts PowerPoint slides into a complete interactive HTML Topic slide viewer for Brightspace. Use this skill whenever a user wants to turn a slide deck into a navigable Brightspace page. Triggers on phrases like "convert my slides", "make a slide viewer", "turn my PowerPoint into a Brightspace page", "PPTX to HTML", "slide viewer", "navigable slides", or any request to put lecture slides into a Brightspace HTML Topic.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.2.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.2.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Slide Converter

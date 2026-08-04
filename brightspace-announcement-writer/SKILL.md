@@ -2,15 +2,16 @@
 name: brightspace-announcement-writer
 description: |
   Writes Brightspace Announcements in description-area-safe HTML — welcome messages, weekly updates, assignment reminders, urgent notices, and end-of-term messages. Use this skill whenever a user needs to write a Brightspace Announcement. Triggers on phrases like "write an announcement", "course announcement", "weekly update for students", "welcome message", "remind students about the assignment", "urgent announcement", or any request to communicate with students through Brightspace. Always use this skill for student-facing announcements — it produces safe, formatted HTML that works in Brightspace description areas.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Announcement Writer

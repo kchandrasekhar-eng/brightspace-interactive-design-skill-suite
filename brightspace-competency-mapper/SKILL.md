@@ -2,15 +2,16 @@
 name: brightspace-competency-mapper
 description: |
   Maps learning outcomes to Brightspace activities and assessments — useful for accreditation, program review, and curriculum alignment. Use this skill whenever a user needs to demonstrate how course activities align to learning outcomes, program outcomes, or external standards. Triggers on phrases like "map my outcomes", "competency mapping", "curriculum alignment", "accreditation evidence", "program review", "outcome alignment", "which activities address which outcomes", or any request to connect learning outcomes to course activities in Brightspace.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Competency Mapper

@@ -2,15 +2,16 @@
 name: brightspace-course-copy-auditor
 description: |
   Audits a Brightspace course before copying to a new term — flags absolute URLs, hardcoded dates, broken release conditions, and grade item connections that need updating. Use this skill whenever a user is about to copy a Brightspace course to a new shell. Triggers on phrases like "course copy", "copy to next term", "rollover", "new section", "duplicate the course", "prepare for next semester", or any request to prepare a course for reuse. Always use this skill before performing a D2L Course Copy — it catches problems that would otherwise surface as student-reported bugs mid-term.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Course Copy Auditor

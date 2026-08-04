@@ -2,15 +2,16 @@
 name: brightspace-survey-generator
 description: |
   Generates Brightspace Surveys — anonymous or identified, ungraded, for pulse checks, course feedback, learning preference gathering, and mid-term check-ins. Use this skill whenever a user wants to create a survey in Brightspace. Triggers on phrases like "create a survey", "course feedback form", "mid-term check-in", "pulse check", "learning preferences survey", "anonymous feedback", or any request for ungraded student feedback in Brightspace. Surveys do not record to the gradebook — use brightspace-quiz-generator for graded assessments.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Survey Generator

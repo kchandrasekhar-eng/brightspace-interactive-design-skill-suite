@@ -2,15 +2,16 @@
 name: brightspace-release-condition-planner
 description: |
   Designs Release Condition logic for Brightspace — what unlocks what, sequencing, prerequisites, and role-based visibility. Use this skill whenever a user wants to control when and how content becomes visible to students. Triggers on phrases like "release conditions", "unlock content", "prerequisite", "students must complete before", "hide until", "role-based content", "conditional content", or any request about controlling content visibility in Brightspace. Always use this skill after the module plan is complete — release conditions are applied on top of existing content structure.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Release Condition Planner

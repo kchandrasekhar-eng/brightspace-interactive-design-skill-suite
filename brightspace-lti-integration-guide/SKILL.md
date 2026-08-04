@@ -2,15 +2,16 @@
 name: brightspace-lti-integration-guide
 description: |
   Guides LTI tool integration in Brightspace — configuration, placement, grade passback, and troubleshooting. Use this skill whenever a user needs to connect an external tool to Brightspace via LTI. Triggers on phrases like "LTI tool", "external tool", "add a publisher tool", "connect to Brightspace", "grade passback", "LTI configuration", "add H5P", "connect publisher content", "LTI link", or any request to integrate a third-party tool into Brightspace.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace LTI Integration Guide

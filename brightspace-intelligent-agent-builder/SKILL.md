@@ -2,15 +2,16 @@
 name: brightspace-intelligent-agent-builder
 description: |
   Builds Brightspace Intelligent Agents — automated triggers that send emails or notifications when students meet specific conditions, such as not logging in, not submitting an assignment, or falling below a grade threshold. Use this skill whenever a user wants to automate student outreach in Brightspace. Triggers on phrases like "intelligent agent", "automated email", "at-risk students", "students who haven't logged in", "automatic notification", "D2L agent", "send email when student misses", or any request to set up automated student monitoring in Brightspace.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Intelligent Agent Builder
@@ -130,28 +131,22 @@ BRIGHTSPACE SETUP:
 
 ---
 
-## Merge Tag Note
-
-Brightspace Intelligent Agent emails use curly-brace merge tags for personalisation. Always use `{FirstName}` — not `[First Name]`. The square-bracket format is a manual placeholder used in the **brightspace-email-template-builder** skill. If copying a template from there, replace `[First Name]` with `{FirstName}` before pasting into Brightspace.
-
-Supported merge tags: `{FirstName}`, `{LastName}`, `{UserName}`, `{OrgDefinedId}`
-
 ## Common Agents — Ready to Use
 
 ### Agent 1 — Login reminder (Week 2)
 Trigger: Not logged in for 7 days after course start
 Subject: Checking in — [Course Name]
-> "Hi {FirstName}, I wanted to reach out because I haven't seen you in [Course Name] this week. If you're having any trouble accessing the course or have questions about getting started, I'm happy to help — just reply to this email or drop by office hours. Looking forward to seeing you in the course."
+> "Hi [First Name], I wanted to reach out because I haven't seen you in [Course Name] this week. If you're having any trouble accessing the course or have questions about getting started, I'm happy to help — just reply to this email or drop by office hours. Looking forward to seeing you in the course."
 
 ### Agent 2 — Assignment reminder (24 hours before due)
 Trigger: Assignment not submitted, 24 hours before due date
 Subject: Reminder — [Assignment Name] due tomorrow
-> "Hi {FirstName}, just a quick reminder that [Assignment Name] is due tomorrow. If you have questions or need an extension, please get in touch before the deadline. You can submit through the Assignments area in [Course Name]."
+> "Hi [First Name], just a quick reminder that [Assignment Name] is due tomorrow at [time]. If you have questions or need an extension, please get in touch before the deadline. You can submit through the Assignments area in [Course Name]."
 
 ### Agent 3 — At-risk grade check
 Trigger: Quiz score below 60%
 Subject: Let's talk about [Quiz Name]
-> "Hi {FirstName}, I noticed your score on [Quiz Name] was below where I'd like to see you. That's okay — this is exactly what these checks are for. I'd like to connect and make sure you have the support you need. Please reply to this email or book a time to meet."
+> "Hi [First Name], I noticed your score on [Quiz Name] was below where I'd like to see you. That's okay — this is exactly what these checks are for. I'd like to connect and make sure you have the support you need. Please reply to this email or book a time to meet."
 
 ---
 

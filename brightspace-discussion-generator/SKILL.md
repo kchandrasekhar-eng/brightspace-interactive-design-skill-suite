@@ -2,15 +2,16 @@
 name: brightspace-discussion-generator
 description: |
   Generates Brightspace Discussion forum and topic settings, student prompts, grading criteria, and facilitation guidelines. Use this skill whenever a user wants to create a discussion in Brightspace — including forum setup, discussion prompts, grading settings, and participation guidelines. Triggers on phrases like "create a discussion", "build a discussion forum", "discussion prompt", "set up a Brightspace discussion", "peer discussion", "online discussion topic", or any request to configure a Brightspace Discussion. Always use this skill for structured student discussions — not HTML Topics or description areas.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Discussion Generator

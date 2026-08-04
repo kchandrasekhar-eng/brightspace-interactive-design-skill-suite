@@ -1,0 +1,33 @@
+Brightspace Interactive Design Skill Suite
+Copyright (c) 2026 Kumar Chandrasekhar, PhD
+Academic Development Centre and Department of General Education
+Mount Royal University, Calgary, Alberta, Canada
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License (CC BY-NC 4.0), with one exception noted below.
+
+You are free to:
+  Share   copy and redistribute the material in any medium or format
+  Adapt   remix, transform, and build upon the material
+
+Under the following terms:
+  Attribution     You must give appropriate credit, link to the license,
+                  and indicate if changes were made.
+  NonCommercial   You may not use the material for commercial purposes
+                  without separate written permission from the author.
+
+Attribution:
+  Brightspace Interactive Design Skill Suite by Kumar Chandrasekhar, PhD.
+  Licensed under CC BY-NC 4.0.
+
+Full license text:
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Exception: bundled scripts
+  The Python scripts in course-video-pipeline/scripts/ are licensed
+  separately under the MIT License. See course-video-pipeline/LICENSE.md
+  for the full terms.
+
+Commercial licensing inquiries can be directed to the author through the
+repository Issues page:
+  https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues

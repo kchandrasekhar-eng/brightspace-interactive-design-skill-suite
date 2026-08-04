@@ -2,15 +2,16 @@
 name: brightspace-rubric-builder
 description: |
   Builds detailed assessment rubrics for Brightspace — analytic or holistic, tied to assignments, discussions, or portfolios. Use this skill whenever a user wants to create a grading rubric in Brightspace. Triggers on phrases like "build a rubric", "create a grading rubric", "assessment criteria", "holistic rubric", "analytic rubric", "rubric for my assignment", or any request to generate evaluation criteria for student work. Always use this skill for rubric creation — it can work standalone or alongside brightspace-assignment-generator and brightspace-discussion-generator.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Rubric Builder

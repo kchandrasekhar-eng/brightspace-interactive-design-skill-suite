@@ -2,15 +2,16 @@
 name: brightspace-assignment-generator
 description: |
   Generates Brightspace Assignment submission folder settings, instructions, and rubrics. Use this skill whenever a user wants to create an assignment in Brightspace — including submission settings, student instructions, grade item connection, and optional rubric. Triggers on phrases like "create a Brightspace assignment", "build an assignment folder", "assignment instructions", "submission folder", "set up an assignment", or any request to configure a Brightspace Assignment. Always use this skill for graded student submissions — HTML Topics cannot collect or grade student work.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.1.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.1.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace Assignment Generator

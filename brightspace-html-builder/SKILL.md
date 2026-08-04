@@ -2,15 +2,16 @@
 name: brightspace-html-builder
 description: |
   Builds complete, deployment-ready HTML Topic files for D2L Brightspace. Use this skill whenever a user wants to create, modify, or troubleshoot an HTML Topic for Brightspace — including slide viewers, practice questions with feedback, tabbed content, card grids, reading pages, module overviews, glossaries, or any interactive Brightspace content page. Triggers on phrases like "build me a Brightspace page", "create an HTML Topic", "make a slide viewer", "I need a quiz with feedback in Brightspace", "convert this to an HTML Topic", "fix my Brightspace HTML", or any request involving Brightspace content that needs HTML, CSS, or JavaScript. Always use this skill when the user mentions Brightspace and wants to build or fix something — even if they don't say "HTML Topic" explicitly.
-author: Kumar Chandrasekhar, PhD
-affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
-contact: kchandrasekhar@mtroyal.ca
-version: 0.2.0
-date: 2026
-credits: |
-  Developed as part of Designing Interactive Learning Experiences in Brightspace,
-  a D2L Academy Customer Spotlight course.
 license: CC BY-NC 4.0
+metadata:
+  author: Kumar Chandrasekhar, PhD
+  affiliation: Academic Development Centre | Department of General Education, Mount Royal University, Calgary, Alberta, Canada
+  version: 0.2.0
+  date: 2026
+  contact: https://github.com/kchandrasekhar-eng/brightspace-interactive-design-skill-suite/issues
+  credits: |
+    Developed as part of Designing Interactive Learning Experiences in Brightspace,
+    a D2L Academy Customer Spotlight course.
 ---
 
 # Brightspace HTML Topic Builder
