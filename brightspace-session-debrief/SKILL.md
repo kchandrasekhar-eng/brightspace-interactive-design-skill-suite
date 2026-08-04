@@ -175,6 +175,7 @@ Brand colours: [hex codes or "not set"]
 | Learning Outcomes Generator | | | |
 | Course Calendar Builder | | | |
 | Program Alignment Mapper | | | |
+| Competency Mapper | | | |
 | Glossary Builder | | | |
 | Case Study Builder | | | |
 | Reading List Builder | | | |
@@ -208,6 +209,8 @@ Brand colours: [hex codes or "not set"]
 | Survey Generator | | | |
 | Google Peer Eval | | | |
 | Course Video Pipeline | | | |
+| Google Flow Video Pipeline | | | |
+| NotebookLM Video Builder | | | |
 
 ## Open items
 | Item | Skill | Priority | Blocking what |
